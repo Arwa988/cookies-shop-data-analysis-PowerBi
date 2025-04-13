@@ -12,3 +12,8 @@ Determine the KPIs of the shop across the two years 2019 and 2020 , know the mos
 - Chocolate chip cookie , Fortune cookie , Oatmeal cookie are the most ordered in Green Bay city.
 - Snikerdoodle is most ordered in Huntington city.
 - Suger cookie is  the most ordered in Salt Lake city.
+## Recommendation :
+- Expand successful cookie types (like Chocolate Chip) to other high-potential regions using targeted ads or sampling campaigns.
+- Increase production and stock levels during peak sales months — January, June, September, and October — to meet high demand and avoid stockouts.
+- Introduce seasonal flavors or limited editions during high-selling months to boost interest and encourage repeat purchases.
+  
